@@ -1,0 +1,8 @@
+api\tests\DDTests.class
+api\utilities\DataProviders.class
+api\utilities\ExtentReportsGeneration.class
+api\endpoints\UserEndPoints.class
+api\payloads\User.class
+api\tests\UserTests.class
+api\endpoints\Routes.class
+api\utilities\XLUtitlity.class
